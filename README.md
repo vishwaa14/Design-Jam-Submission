@@ -1,3 +1,3 @@
-# Design-Jam-Submission-
+# Design-Jam-Submission
 
 Hackathon Web Design Submission
